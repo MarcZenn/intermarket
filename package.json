@@ -1,0 +1,19 @@
+{
+  "name": "intermarket",
+  "version": "1.0.0",
+  "description": "True Social Ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcZenn/intermarket.git"
+  },
+  "author": "Marcos Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcZenn/intermarket/issues"
+  },
+  "homepage": "https://github.com/MarcZenn/intermarket#readme"
+}
