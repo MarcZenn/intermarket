@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MarcZenn/intermarket/issues"
   },
-  "homepage": "https://github.com/MarcZenn/intermarket#readme"
+  "homepage": "https://github.com/MarcZenn/intermarket#readme",
+  "devDependencies": {
+    "babel-loader": "^5.3.3",
+    "webpack": "^1.13.1"
+  }
 }
