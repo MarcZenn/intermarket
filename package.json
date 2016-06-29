@@ -19,5 +19,8 @@
   "devDependencies": {
     "babel-loader": "^5.3.3",
     "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "react": "^15.1.0"
   }
 }
